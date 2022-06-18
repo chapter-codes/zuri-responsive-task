@@ -111,6 +111,7 @@ p.terms span{
     main{
         flex-direction: row;
         justify-content: space-evenly;
+        align-items:center;
     }
     .intro h1{
         text-align: revert;
